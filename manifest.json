@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Queens Puzzle Solver",
+  "version": "1.0",
+  "description": "Solves the Queens puzzle by clicking on the grid",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
